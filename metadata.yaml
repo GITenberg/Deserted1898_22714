@@ -1,0 +1,33 @@
+_repo: Deserted1898_22714
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bellamy, Edward
+    birthdate: 1850
+    deathdate: 1898
+    gutenberg_agent_id: '327'
+    url: http://www.gutenberg.org/2009/agents/327
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bellamy
+description: On a cross-country train trip, a pair of romantics find something in
+  common in their shared appreciation of the vast desert landscape. During a brief
+  pit stop, they set off on a quick jaunt to explore their surroundings -- and find
+  themselves left behind.
+gutenberg_issued: '2007-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Short stories'
+title: 'Deserted
+
+  1898'
+url: http://www.gutenberg.org/ebooks/22714
